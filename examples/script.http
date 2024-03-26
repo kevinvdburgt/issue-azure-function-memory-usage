@@ -4,7 +4,7 @@ content-type: application/json
 
 < ./example-small.json
 
-### Sending a small request
+### Sending a large request
 POST http://localhost:7071/api/script HTTP/1.1
 content-type: application/json
 
