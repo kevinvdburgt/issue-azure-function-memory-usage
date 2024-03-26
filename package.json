@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "prepare": "node examples/create-payloads.js",
+    "start": "func start"
+  },
+  "dependencies": {
+    "azure-functions-core-tools": "^4.0.5611"
+  }
+}
